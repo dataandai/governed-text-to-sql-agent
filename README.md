@@ -168,6 +168,7 @@ evaluation/                   golden cases and execution-based eval runner
 tests/                        unit + integration tests
 docs/HLD.md                   architecture, data flow, and requirement walkthrough
 docs/COMPLIANCE_MATRIX.md     implementation map back to the master spec
+docs/MANAGER_GUIDE.md         plain-language user guide for non-technical managers
 ```
 
 ## Design notes reviewers usually check
